@@ -114,3 +114,29 @@ li a{
     width: 200px;
     margin-bottom: 100px;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote p{
+    width: 60vw;
+    margin:auto;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1F2937;
+}
+
+.quote h3{
+    width: 60vw;
+    font-size: 30px;
+    /* font-weight: 900; */
+    margin: auto;
+    margin-top: 30px;
+    text-align: right;
+}
